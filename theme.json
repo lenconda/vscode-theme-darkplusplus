@@ -3,7 +3,8 @@
     "name": "Dark+++",
     "include": "./vscode/dark_plusplusplus.json",
     "colors": {
-        "editorHint.foreground": "#008000"
+        "editorHint.foreground": "#008000",
+        "statusBar.background": "#323232"
     },
     "tokenColors": [
         {

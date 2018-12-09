@@ -16,7 +16,15 @@
         {
             "scope": "comment.block",
             "settings": {
-                "foreground": "#498f8f"
+                "foreground": "#696969",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "comment.line",
+            "settings": {
+                "foreground": "#696969",
+                "fontStyle": "italic"
             }
         },
         {

@@ -4,7 +4,9 @@
     "include": "./vscode/dark_plusplusplus.json",
     "colors": {
         "editorHint.foreground": "#008000",
-        "statusBar.background": "#323232"
+        "statusBar.background": "#323232",
+        "statusBar.noFolderBackground" : "#323232",
+        "statusBar.debuggingBackground": "#263238",
     },
     "tokenColors": [
         {

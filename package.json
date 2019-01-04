@@ -2,7 +2,7 @@
     "name": "theme-one-resharpened",
     "displayName": "One Resharpened Theme",
     "description": "Another style of Atom One Dark theme.",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "lenconda",
     "engines": {
         "vscode": "^1.22.0"

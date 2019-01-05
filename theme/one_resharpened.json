@@ -233,10 +233,10 @@
       "foreground": "#56B6C2"
     }
   }, {
-    "name": "Variable",
-    "scope": ["variable"],
+    "name": "Varoable",
+    "scope": ["variable.other.property"],
     "settings": {
-      "foreground": "#E06C75"
+      "foreground": "#e06c75"
     }
   }, {
     "name": "Variable Interpolation",

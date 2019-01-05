@@ -27,7 +27,7 @@
     "list.inactiveSelectionBackground": "#ffffff12",
     "list.hoverBackground": "#ffffff05",
     "list.highlightForeground": "#adb7c2",
-    "selection.background": "#111315",
+    "selection.background": "#ffffff30",
     "errorForeground": "#F43E5C",
     "button.background": "#2E303E",
 		"dropdown.background": "#111315",
